@@ -21,15 +21,15 @@ npm install gulp-sass
 ## HTML
 
 ```html
-&lt;a href="#" id="toggle"&gt;Open&lt;/a&gt;<br/>
+<a href="#" id="toggle">Click Me</a>
 
-&lt;div id="wrap"&gt; CONTENT HERE &lt;/div&gt;<br/>
+<div id="wrap"> CONTENT HERE </div>
 
-&lt;nav class="nav"&gt;
-	&lt;ul&gt;
-		&lt;li&gt;&lt;a href=""&gt;Nav Item&lt;/a&gt;&lt;/li&gt;
-	&lt;/ul&gt;
-&lt;/nav&gt;
+<nav class="nav">
+	<ul>
+		<li><a href="">Nav Item</a></li>
+	</ul>
+</nav>
 ```
 
 ## The jQuery
