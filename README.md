@@ -1,6 +1,5 @@
 # Slide Nav
 An IE7+ compatible (tested) jQuery, HTML and CSS full-width sliding navigation.
-[View Demo](http://www.jomurgel.com/demos/Sliding-Nav)
 
 ## Features
 - Lightweight
